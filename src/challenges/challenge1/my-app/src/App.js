@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import logo from './images/black.svg';
 
- 
+
 function App() {
   return (
     <div className="challenge-light" id="light">
